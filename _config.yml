@@ -10,7 +10,7 @@ locale                   : "en"
 title                    : "Site Title"
 title_separator          : "-"
 name                     : "Daniel Ayoub"
-description              : "An amazing website."
+description              : "A site to showcase current projects and educational posts"
 url                      : "https://dsa8cx.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "dsa8cx/dsa8cx.github.io"
@@ -78,9 +78,9 @@ analytics:
 # Site Author
 author:
   name             : "Daniel Ayoub"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  avatar           : "/assets/images/bio_image.JPG"
+  bio              : "I'm a sophomore student in the School of Engineering and Applied Science at the University of Virginia."
+  location         : "Charlottesville, VA"
   email            : "dsa8cx@virginia.edu"
   uri              :
   bitbucket        :
@@ -89,13 +89,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "https://github.com/dsa8cx"
   gitlab           :
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/daniel-ayoub/"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
