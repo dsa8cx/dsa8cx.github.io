@@ -46,7 +46,7 @@
   }
 
   img {
-    width: 50%;
+    width: 100%;
   }
 }
 
@@ -73,7 +73,7 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: 36px;
+  width: 72px;
   height: 36px;
 
   @include breakpoint($large) {
