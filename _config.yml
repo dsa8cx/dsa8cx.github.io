@@ -11,9 +11,9 @@ title                    : "Site Title"
 title_separator          : "-"
 name                     : "Daniel Ayoub"
 description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://dsa8cx.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "dsa8cx/dsa8cx.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -77,11 +77,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Daniel Ayoub"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an amazing person."
   location         : "Somewhere"
-  email            :
+  email            : "dsa8cx@virginia.edu"
   uri              :
   bitbucket        :
   codepen          :
