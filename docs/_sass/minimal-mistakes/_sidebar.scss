@@ -82,8 +82,8 @@
     height: auto;
   }
 
-  img-circle {
-    // max-width: 110px;
+  img {
+    max-width: 110px;
     border-radius: 50%;
 
     @include breakpoint($large) {
