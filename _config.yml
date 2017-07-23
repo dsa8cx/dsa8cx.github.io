@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "A Dan Blog"
 title_separator          : "-"
 name                     : "Daniel Ayoub"
-description              : "A site to showcase current projects and educational posts"
+description              : "A site to showcase myself and opinions"
 url                      : "https://dsa8cx.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "dsa8cx/dsa8cx.github.io"
@@ -89,7 +89,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/dsa8cx"
+  github           : "dsa8cx"
   gitlab           :
   google_plus      :
   keybase          :
