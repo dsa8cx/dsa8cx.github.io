@@ -15,7 +15,7 @@ url                      : "https://dsa8cx.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "dsa8cx/dsa8cx.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-# breadcrumbs            : false # true, false (default)
+breadcrumbs              : true
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "Daniel Ayoub"
   avatar           : "/assets/images/bio_image1.jpg"
-  bio              : "I'm a sophomore student at n the School of Engineering and Applied Science at the University of Virginia."
+  bio              : "I'm a sophomore student at the School of Engineering and Applied Science at the University of Virginia."
   location         : "Charlottesville, VA"
   email            : "dsa8cx@virginia.edu"
   uri              : "dsa8cx@github.io"
