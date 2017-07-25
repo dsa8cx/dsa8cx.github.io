@@ -82,7 +82,7 @@ author:
   bio              : "I'm a sophomore student at the School of Engineering and Applied Science at the University of Virginia."
   location         : "Charlottesville, VA"
   email            : "dsa8cx@virginia.edu"
-  uri              : "dsa8cx@github.io"
+  uri              : "dsa8cx.github.io"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -95,7 +95,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/daniel-ayoub/"
+  linkedin         : "/daniel-ayoub/"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
