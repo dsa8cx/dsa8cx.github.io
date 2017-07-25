@@ -245,7 +245,3 @@ defaults:
       comments: # true
       share: true
       related: true
-
-sample-project
-└── _pages/
-    ├── about.md             # about page
